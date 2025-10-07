@@ -3,4 +3,4 @@
 - szodanie proekta
 - izmenenie proekta
 - clonirovanie proekta
-*070925*
+***070925***
