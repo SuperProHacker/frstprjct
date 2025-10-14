@@ -1,5 +1,5 @@
 # firstproject
-##firstweek
+## firstweek
 - uchbnprjctfrgthb
 - szodanie proekta
 - izmenenie proekta
@@ -9,7 +9,7 @@
 
 
 
-##secndweek
+## secndweek
 - clonirovanie poekta na ud mashinu
 - sinhronizatsia repozitoriev
 ***upd 140925***
