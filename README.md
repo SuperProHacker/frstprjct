@@ -1,15 +1,16 @@
 # firstproject
 ## firstweek
+***070925***
 - uchbnprjctfrgthb
 - szodanie proekta
 - izmenenie proekta
 - clonirovanie proekta
 
-***070925***
-
 
 
 ## secndweek
+***upd 140925***
+
 - clonirovanie poekta na ud mashinu
 - sinhronizatsia repozitoriev
-***upd 140925***
+
